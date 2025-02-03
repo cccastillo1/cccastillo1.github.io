@@ -1,0 +1,81 @@
+*Genearal page style */
+body {
+    background-color: #003366;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* Title */
+.title {
+    color: white;
+    font-size: 30px;
+    text-align: right;
+}
+
+/* Colored text */
+.pink-text {
+    color: pink;
+}
+
+.red-text {
+    color: red;
+}
+
+.yellow-text {
+    color: yellow;
+}
+
+.blue-text {
+    color: lightblue;
+}
+
+.green-text {
+    color: lightgreen;
+}
+
+/* Italicized text */
+.italic {
+    font-style: italic;
+}
+
+/* Section headings */
+.media {
+    color: red;
+    font-size: 24px;
+}
+
+.format-text {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.controls {
+    color: lime;
+    font-size: 24px;
+}
+
+/* Black box styling */
+.black-box {
+    background-color: black;
+    padding: 10px;
+    font-style: italic;
+    margin: 10px 0;
+}
+
+/* Galleries section */
+.galleries {
+    background-color: yellow;
+    color: black;
+    padding: 5px;
+    display: inline-block;
+}
+
+.galleries-text {
+    background-color: red;
+    padding: 5px;
+}
